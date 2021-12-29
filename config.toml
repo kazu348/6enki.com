@@ -1,5 +1,4 @@
 baseurl = "https://kazu348.github.io/6enki.com"
-canonifyurls　= true
 publishDir = "docs"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
